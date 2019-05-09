@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">FrameAnimation</string>
+    <string name="start">Animar</string>
+    <string name="stop">Detener</string>
+</resources>
