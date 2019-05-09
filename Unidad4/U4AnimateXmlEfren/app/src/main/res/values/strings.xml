@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Dia de la cerveza</string>
+    <string name="crecer">Crecer</string>
+    <string name="girar">Girar</string>
+    <string name="rebotar">Rebotar</string>
+    <string name="parpadeo">Parpadear</string>
+    <string name="ambos">Aumentar</string>
+    <string name="fundirse">Fundirse</string>
+</resources>
